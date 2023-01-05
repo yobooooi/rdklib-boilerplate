@@ -1,0 +1,13 @@
+{
+  "Version": "1.0",
+  "Parameters": {
+    "RuleName": "SG_CHECK",
+    "Description": "SG_CHECK",
+    "SourceRuntime": "python3.8",
+    "CodeKey": "SG_CHECKeu-west-1.zip",
+    "InputParameters": "{}",
+    "OptionalParameters": "{}",
+    "SourceEvents": "AWS::EC2::SecurityGroup"
+  },
+  "Tags": "[]"
+}
